@@ -1,0 +1,22 @@
+.formwrapper{
+    margin: auto;
+    background-color: #2f1037b0;
+    margin-top:2%;
+    border-radius: 10px;
+}
+.formwrapper label{
+    color: #fff;
+}
+.btnwrapper{
+    justify-content: flex-end;
+    column-gap: 15px;
+}
+.expense-item{
+    background-color: #3f2147;
+    color: #fff;
+    margin: 20px;
+}
+.no-item{
+    text-align: center;
+    padding: 2%;
+}
